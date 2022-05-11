@@ -1,0 +1,11 @@
+Model Information:
+* title:	My little bakery
+* source:	https://sketchfab.com/3d-models/my-little-bakery-392cb3c5bbae402294544ab66e74ce95
+* author:	Shi0n (https://sketchfab.com/Shi0n)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "My little bakery" (https://sketchfab.com/3d-models/my-little-bakery-392cb3c5bbae402294544ab66e74ce95) by Shi0n (https://sketchfab.com/Shi0n) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
