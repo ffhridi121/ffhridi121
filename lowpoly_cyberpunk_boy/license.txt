@@ -1,0 +1,11 @@
+Model Information:
+* title:	lowpoly cyberpunk boy
+* source:	https://sketchfab.com/3d-models/lowpoly-cyberpunk-boy-226f7535f31743cc9af6624e0dd2e777
+* author:	HajarHamdy (https://sketchfab.com/HajarHamdy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "lowpoly cyberpunk boy" (https://sketchfab.com/3d-models/lowpoly-cyberpunk-boy-226f7535f31743cc9af6624e0dd2e777) by HajarHamdy (https://sketchfab.com/HajarHamdy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
